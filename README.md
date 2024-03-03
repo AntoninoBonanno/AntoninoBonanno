@@ -11,6 +11,10 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://www.linkedin.com/in/antonino-bonanno-373632a6/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://ko-fi.com/antoninobonanno" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  /></a>
+</div>
 
 <h4 align="center">Welcome to my GitHub profile.</h4>
 
@@ -206,7 +210,7 @@
   <a href="https://www.google.com/intl/it_it/chrome/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  /></a>
 </div>
 
-<h3 align="left">🔥 My Stats :</h3>
+## 🔥 My Stats
 
 ###
 
@@ -221,12 +225,12 @@
 
 ###  
 
-<h3 align="left">Support:</h3>
+## Support
 <p>
-<a href="https://ko-fi.com/antoninobonanno">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="32" width="110" alt="antoninobonanno" />
-</a>
-<br/><br/>
+    <a href="https://ko-fi.com/antoninobonanno">
+        <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="168" alt="antoninobonanno" />
+    </a>
+    <br/><br/>
 </p>
 
 ###
